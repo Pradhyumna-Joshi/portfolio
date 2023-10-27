@@ -38,13 +38,13 @@ export const skills = [
   {
     name: "MySQL",
     image:
-      "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/480/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png",
   },
 
   {
     name: "MongoDB",
     image:
-      "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+      "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/480/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png",
   },
   {
     name: "Firebase",
