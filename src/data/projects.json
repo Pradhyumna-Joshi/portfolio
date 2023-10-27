@@ -1,0 +1,65 @@
+[
+
+    {
+        "title":"Ecommerce Web App",
+        "img":"../images/ecommerce.png",
+        "desc":"Developed an e-commerce web app using MERN stack",
+        "skills":["React","Node","Express","Mongo","Redux-Toolkit"],
+        "demo":"https://e-commerce-three-umber.vercel.app/",
+        "source":"https://github.com/Pradhyumna-Joshi/E-Commerce-App",
+        "tag":["All","Web"]
+
+    },
+    {
+        "title":"Blog App",
+        "img":"../images/blogapp.png",
+        "desc":"A simple blog application",
+        "skills":["React","TailWind","Appwrite"],
+        "demo":"https://blog-app-mocha-eta.vercel.app/",
+        "source":"https://github.com/Pradhyumna-Joshi/blogApp",
+        "tag":["All","Web"]
+
+    },
+    {
+        "title":"Code-pen Clone",
+        "img":"../images/codepen.png",
+        "desc":"Developed code-pen clone",
+        "skills":["React","TailWind"],
+        "demo":"https://pradhyumna-joshi.github.io/Code-Pen-Clone/",
+        "source":"https://github.com/Pradhyumna-Joshi/Code-Pen-Clone",
+        "tag":["All","Web"]
+
+    },
+    {
+        "title":"Swiggy Clone",
+        "img":"../images/swiggy.png",
+        "desc":"Swiggy clone with state management",
+        "skills":["React-Native","Redux-Toolkit"],
+        "demo":"NULL",
+        "source":"https://github.com/Pradhyumna-Joshi/React-Native-Swiggy-Clone",
+        "tag":["All","Mobile"]
+
+    },
+    {
+        "title":"Homely",
+        "img":"../images/homely.png",
+        "desc":"An Online Renting Application",
+        "skills":["Kotlin","MySQL","Android Studio"],
+        "demo":"NULL",
+        "source":"https://github.com/Pradhyumna-Joshi/Homely/tree/main",
+        "tag":["All","Mobile"]
+
+    },
+    {
+        "title":"Expense-Tracker",
+        "img":"../images/expense.png",
+        "desc":"App designed for accurately tracking income and expenses",
+        "skills":["Kotlin","Firebase"],
+        "demo":"NULL",
+        "source":"https://github.com/Pradhyumna-Joshi/Expense-Manager-App",
+        "tag":["All","Mobile"]
+
+    }
+    
+   
+]
