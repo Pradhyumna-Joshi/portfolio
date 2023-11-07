@@ -89,15 +89,15 @@ const Navbar = () => {
                   hover:cursor-pointer"
                   activeClass="active"
                   spy
-{/*                   activeStyle={{
-                    // border: "2px black solid",
-                    font: "bold",
+                  // activeStyle={{
+                  //   // border: "2px black solid",
+                  //   font: "bold",
 
-                    background: "linear-gradient(to right, #A855F7, #ec4899)",
-                    WebkitBackgroundClip: "text", // For WebKit-based browsers
-                    backgroundClip: "text",
-                    color: "transparent",
-                  }} */}
+                  //   background: "linear-gradient(to right, #A855F7, #ec4899)",
+                  //   WebkitBackgroundClip: "text", // For WebKit-based browsers
+                  //   backgroundClip: "text",
+                  //   color: "transparent",
+                  // }}
                   to={item.path}
                   smooth={true}
                   duration={500}
