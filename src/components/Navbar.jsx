@@ -89,7 +89,7 @@ const Navbar = () => {
                   hover:cursor-pointer"
                   activeClass="active"
                   spy
-                  activeStyle={{
+{/*                   activeStyle={{
                     // border: "2px black solid",
                     font: "bold",
 
@@ -97,7 +97,7 @@ const Navbar = () => {
                     WebkitBackgroundClip: "text", // For WebKit-based browsers
                     backgroundClip: "text",
                     color: "transparent",
-                  }}
+                  }} */}
                   to={item.path}
                   smooth={true}
                   duration={500}
